@@ -1,0 +1,1 @@
+Procesado: ID=PP-1717364028852, Monto=10000.0, Moneda=USD, Número de Tarjeta=1234, CSV=123, Fecha de Expiración=124, Fecha Actual=2024-06-02 16:33:48
